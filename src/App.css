@@ -1,3 +1,104 @@
-.App {
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+  background: url('images/background.png');
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 80%;
+  padding: 10px 10px;
+  margin-bottom: 25px;
+  margin-left: 10%;
+  margin-top: 25px;
+}
+
+p {
+  color: white;
+}
+
+.solarSystemContainer {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+}
+
+.planetDiv {
+  /* border: 1px solid green; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 15%;
+}
+
+.planetDiv div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: center;
+  width:fit-content;
+}
+
+.planetDiv div img {
+  transition: 0.5s all ease-in-out;
+}
+
+.planetDiv div img:hover {
+  filter: brightness(120%);
+  transform: scale(1.2);
+}
+
+.Mercúrio {
+  width: 60px;
+}
+
+.Vênus {
+  width: 160px;
+}
+
+.Terra {
+  width: 180px;
+}
+
+.Marte {
+  width: 110px;
+}
+
+.Júpiter {
+  width: 350px;
+}
+
+.Saturno {
+  width: 280px;
+}
+
+.Urano {
+  width: 200px;
+}
+
+.Netuno {
+  width: 200px;
+}
+
+.planetsNames {
+  font-size: 20px;
   text-align: center;
 }
