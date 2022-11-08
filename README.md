@@ -18,6 +18,12 @@ Habilidades desenvolvidas
 - Fazer toda estilização pegando como exemplo o modelo apresentado no Figma.
 
 Para fazer as instalações:
+```bash
 npm install
+```
+Rodando a aplicação:
+```bash
+npm start
+```
 
 Para acessar a aplicação em funcionamento: https://projeto-solar-system-sage.vercel.app/
