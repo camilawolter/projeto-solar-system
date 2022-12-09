@@ -1,8 +1,8 @@
 # Project Solar System 
 
-Projeto entregue durante o curso de desenvolvimento Web ministrado pela Trybe.
+Este repositório contém o projeto Solar System desenvolvido por [Camila Wolter](https://www.linkedin.com/in/camilawolter/) enquanto estudava na [Trybe](https://www.betrybe.com/) no módulo de Front-end.
 
-Descrição:
+## Descrição
 
 O projeto apresentada uma listagem dos planetas e as mais importantes missões espaciais realizadas. Possuiu como objetivo desenvolver uma aplicação em React com criação de componentes de classe e passagem de props
 
@@ -17,7 +17,7 @@ Habilidades desenvolvidas
 - Fazer uso de PropTypes para validar as props de um componente.
 - Fazer toda estilização pegando como exemplo o modelo apresentado no Figma.
 
-Para fazer as instalações:
+## Para fazer as instalações:
 ```bash
 npm install
 ```
@@ -26,4 +26,4 @@ Rodando a aplicação:
 npm start
 ```
 
-Para acessar a aplicação em funcionamento: https://projeto-solar-system-sage.vercel.app/
+### Para acessar a aplicação em funcionamento: https://projeto-solar-system-sage.vercel.app/
