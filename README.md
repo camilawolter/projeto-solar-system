@@ -4,7 +4,7 @@ Projeto entregue durante o curso de desenvolvimento Web ministrado pela Trybe.
 
 Descrição:
 
-O projeto teve como objetivo desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. 
+O projeto apresentada uma listagem dos planetas e as mais importantes missões espaciais realizadas. Possuiu como objetivo desenvolver uma aplicação em React com criação de componentes de classe e passagem de props
 
 Habilidades desenvolvidas
 
