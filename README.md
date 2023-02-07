@@ -1,4 +1,4 @@
-# Project Solar System 
+# Projeto Solar System 
 
 Este repositório contém o projeto Solar System desenvolvido por [Camila Wolter](https://www.linkedin.com/in/camilawolter/) enquanto estudava na [Trybe](https://www.betrybe.com/) no módulo de Front-end.
 
